@@ -1,0 +1,5 @@
+[console_scripts]
+backlight = sys_backlight:mode_console
+nbacklight = sys_backlight:mode_ncurses
+qbacklight = sys_backlight:mode_gui
+

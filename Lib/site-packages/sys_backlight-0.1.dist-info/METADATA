@@ -1,0 +1,25 @@
+Metadata-Version: 2.0
+Name: sys-backlight
+Version: 0.1
+Summary: Control linux screen brightness from commandline
+Home-page: https://github.com/hamgom95
+Author: Kevin Thomas
+Author-email: hamgom95@gmail.com
+License: MIT
+Keywords: sys,linux,backlight
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Desktop Environment
+Classifier: Topic :: System :: Systems Administration
+Classifier: Topic :: Utilities
+
+UNKNOWN
+
+
